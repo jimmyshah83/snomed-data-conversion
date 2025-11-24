@@ -5,10 +5,8 @@ Map concept ID from SNOWMED dataset to existing consult data
 
 condition_source_value => condition_concept_id 
 condition_status_source_value => condition_status_concept_id 
- 
 drug_source_value => Drug_concept_id 
 route_source_value => Route_concept_id
- 
 procedure_source_value => Procedure_concept_id
 modifier_source_value => Modifier_concept_id
  
