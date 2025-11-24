@@ -13,8 +13,7 @@ measurement_source_value=> measurement_concept_id
 unit_source_value=>unit_concept_id 
 device_source_value=>device_concept_id 
 observation_source_value=>observation_concept_id  
-unit_source_value=>unit_concept_id 
- 
+unit_source_value=>unit_concept_id  
 specimen_source_value=>specimen_concept_id   
 unit_source_value=>unit_concept_id   
 anatomic_site_source_value=>anatomic_site_concept_id 
